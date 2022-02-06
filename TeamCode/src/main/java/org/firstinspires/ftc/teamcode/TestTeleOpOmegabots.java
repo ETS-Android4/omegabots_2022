@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.hardware.TouchSensor;
 
-@TeleOp(name = "11520-TestTeleOpOmegabots")
+@TeleOp(name = "11520 -  123 TestTeleOpOmegabots")
 public class TestTeleOpOmegabots extends LinearOpMode {
 
   private DcMotor FrontLeft;
